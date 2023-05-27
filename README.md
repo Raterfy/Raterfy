@@ -1,7 +1,7 @@
 <h3 align="center">Hey 🤖, Raterfy</h3>
 
 <div align="center"><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clhai7ylk000608jqvo643yc5/stats?cursusId=21&coalitionId=47" alt="robhak's 42 stats" /></a></div>
-
+<div align="center"><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clhai7ylk000608jqvo643yc5/stats?cursusId=9&coalitionId=piscine" alt="robhak's 42 stats" /></a></div>
 <!--
 **Raterfy/Raterfy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
