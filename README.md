@@ -1,3 +1,9 @@
+## 🛠️ Technical skills 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,js,html,css,docker,py,go,git" />
+  </a>
+</p>
 
 <!--
 **Raterfy/Raterfy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
